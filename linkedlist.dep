@@ -1,0 +1,1 @@
+linkedlist.dep linkedlist.o: linkedlist.cpp linkedlist.hpp

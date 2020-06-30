@@ -1,0 +1,46 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DOWN	linkedlist.cpp	/^enum eDirection{STOP = 0, LEFT, RIGTH, UP, DOWN};$/;"	e	enum:eDirection	file:
+Draw	linkedlist.cpp	/^void Draw()$/;"	f
+GREEN	linkedlist.hpp	11;"	d
+GREEN	test.hpp	6;"	d
+Input	linkedlist.cpp	/^void Input()$/;"	f
+LEFT	linkedlist.cpp	/^enum eDirection{STOP = 0, LEFT, RIGTH, UP, DOWN};$/;"	e	enum:eDirection	file:
+LINKEDLIST_HPP	linkedlist.hpp	3;"	d
+Logic	linkedlist.cpp	/^void Logic()$/;"	f
+OBJECTS	makefile	/^OBJECTS := $(patsubst %.cpp,%.o,$(SOURCES))$/;"	m
+RED	linkedlist.hpp	13;"	d
+RESET	linkedlist.hpp	12;"	d
+RESET	test.hpp	7;"	d
+RIGTH	linkedlist.cpp	/^enum eDirection{STOP = 0, LEFT, RIGTH, UP, DOWN};$/;"	e	enum:eDirection	file:
+SOURCES	makefile	/^SOURCES := linkedlist.cpp main.cpp$/;"	m
+STOP	linkedlist.cpp	/^enum eDirection{STOP = 0, LEFT, RIGTH, UP, DOWN};$/;"	e	enum:eDirection	file:
+Setup	linkedlist.cpp	/^void Setup()$/;"	f
+TEST_HPP	test.hpp	2;"	d
+UP	linkedlist.cpp	/^enum eDirection{STOP = 0, LEFT, RIGTH, UP, DOWN};$/;"	e	enum:eDirection	file:
+YELLOW	linkedlist.hpp	10;"	d
+YELLOW	test.hpp	5;"	d
+_getch	linkedlist.cpp	/^int _getch(void)$/;"	f
+_kbhit	linkedlist.cpp	/^int _kbhit()$/;"	f
+dir	linkedlist.cpp	/^eDirection dir; \/\/sozdanije peremennoj$/;"	v
+eDirection	linkedlist.cpp	/^enum eDirection{STOP = 0, LEFT, RIGTH, UP, DOWN};$/;"	g	file:
+m_fruitX	linkedlist.cpp	/^int m_x, m_y , m_fruitX, m_fruitY, m_score;$/;"	v
+m_fruitY	linkedlist.cpp	/^int m_x, m_y , m_fruitX, m_fruitY, m_score;$/;"	v
+m_gameOver	linkedlist.cpp	/^bool m_gameOver;$/;"	v
+m_heigth	linkedlist.cpp	/^const int m_heigth = 20;$/;"	v
+m_score	linkedlist.cpp	/^int m_x, m_y , m_fruitX, m_fruitY, m_score;$/;"	v
+m_tail	linkedlist.cpp	/^int m_tail = 1;$/;"	v
+m_tailx	linkedlist.cpp	/^int m_tailx[100] , m_taily[100];$/;"	v
+m_taily	linkedlist.cpp	/^int m_tailx[100] , m_taily[100];$/;"	v
+m_width	linkedlist.cpp	/^const int m_width = 20;$/;"	v
+m_x	linkedlist.cpp	/^int m_x, m_y , m_fruitX, m_fruitY, m_score;$/;"	v
+m_y	linkedlist.cpp	/^int m_x, m_y , m_fruitX, m_fruitY, m_score;$/;"	v
+main	main.cpp	/^int main()$/;"	f
+std	makefile	/^-include linkedlist.dep main.dep  -std=c++11$/;"	m
+test_v1	test.hpp	/^void test_v1()$/;"	f
+test_v2	test.hpp	/^void test_v2()$/;"	f
+test_v3	test.hpp	/^void test_v3()$/;"	f
